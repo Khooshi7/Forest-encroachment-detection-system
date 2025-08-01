@@ -1,5 +1,6 @@
 Forest Encroachment Detection Using Satellite Imagery (Junagadh Region)
-Overview
+
+Overview:
 This project focuses on detecting forest encroachment in the Junagadh region using satellite imagery and machine learning. Forest encroachment refers to the unauthorized occupation or conversion of forest land. The objective is to develop an automated, data-driven system that helps identify areas of encroachment over time using multi-temporal satellite data.
 
 Objectives
